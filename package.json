@@ -1,0 +1,15 @@
+{
+    "name": "sayna-nodejs-jarvis3-072022",
+    "version": "1.0.0",
+    "description": "exo node projet Jarvis ",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Tokinantenaina Nt",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^2.0.19"
+    }
+}
