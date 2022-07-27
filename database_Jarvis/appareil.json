@@ -1,0 +1,3 @@
+[{"id_appareil":1, "nom_appareil":"mp3", "type_appareil":"multimedia", "id_piece":2},
+ {"id_appareil":2, "nom_appareil":"tv", "type_appareil":"multimedia", "id_piece":3},
+ {"id_appareil":5, "nom_appareil":"robinet", "type_appareil":"menager", "id_piece":3}]
