@@ -1,5 +1,6 @@
 {
     "events": {
         "start": "clear"
-    }
+    },
+    "ignore": ["SAYNA-NODEJS-JARVIS3-072022/database_Jarvis/*.json"]
 }

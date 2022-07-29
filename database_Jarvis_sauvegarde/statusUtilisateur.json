@@ -1,0 +1,8 @@
+[{"nom":"RABOBA", "prenom":"Toki anthonio", "email":"t@gmail.com", "status":"proprietaire"},
+ {"nom":"CLAIRE", "prenom":"0", "email":"m@c.com", "status":"membre"},
+ {"nom":"FFFFF", "prenom":"", "email":"fff", "status":"membre"},
+ {"nom":"FRANCOIS", "prenom":"Didi", "email":"d@f.com", "status":"co-proprio"},
+ {"nom":"BABA", "prenom":"Koto", "email":"b@k.org", "status":"membre"},
+ {"nom":"BERT", "prenom":"Fily", "email":"f@b.is", "status":"membre"},
+ {"nom":"MAN", "prenom":"Boba", "email":"b@m.man", "status":"co-proprio"},
+ {"nom":"JEANNE", "prenom":"Marie", "email":"m@j.com", "status":"membre"}]

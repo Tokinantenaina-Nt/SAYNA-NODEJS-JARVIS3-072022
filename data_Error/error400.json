@@ -1,0 +1,26 @@
+[{
+        "id_error": 1,
+
+        "error": true,
+        "message": "Email/password manquants"
+    }, {
+
+        "id_error": 2,
+
+        "error": true,
+        "message": "Email/password incorrects"
+    }, {
+
+        "id_error": 3,
+
+        "error": true,
+        "message": "Une ou Plusieur données obligatoires sont manquantes "
+    }, {
+
+        "id_error": 4,
+
+        "error": true,
+        "message": "Une ou Plusieur données obligatoires sont érronées"
+    }
+
+]
